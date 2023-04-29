@@ -1,7 +1,7 @@
 {
-  "name": "@upptime/status-page",
+  "name": "@info-devf5r/status-page",
   "version": "1.15.1",
-  "description": "Upptime status page website",
+  "description": "info-devf5r status page website",
   "main": "dist/index.js",
   "scripts": {
     "pre-process": "ts-node pre-process.ts",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/upptime/status-page.git"
+    "url": "git+https://github.com/info-devf5r/status-page.git"
   },
   "keywords": [
     "koj",
@@ -29,9 +29,9 @@
   "author": "Anand Chowdhary <mail@anandchowdhary.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/upptime/status-page/issues"
+    "url": "https://github.com/info-devf5r/status-page/issues"
   },
-  "homepage": "https://github.com/upptime/status-page#readme",
+  "homepage": "https://github.com/info-devf5r/status-page#readme",
   "dependencies": {
     "@octokit/rest": "^18.12.0",
     "compression": "^1.7.4",

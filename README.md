@@ -1,15 +1,15 @@
-# ⬆️ Upptime Status Page
+# ⬆️ info-devf5r Status Page
 
 This repository contains the web app for Upptime's status page website. It's written in Svelte and a sample website is published at https://demo.upptime.js.org/.
 
-[**To get started, visit upptime/upptime →**](https://github.com/upptime/upptime)
+[**To get started, visit info-devf5r/status-page →**](https://github.com/info-devf5r/status-page)
 
 <!-- prettier-ignore-start -->
 |   | Status |
 | - | - |
-| Build | [![Node CI](https://github.com/upptime/status-page/workflows/Node%20CI/badge.svg)](https://github.com/upptime/status-page/actions?query=workflow%3A%22Node+CI%22) [![Dependencies](https://img.shields.io/librariesio/github/upptime/status-page)](https://libraries.io/github/upptime/status-page) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/upptime/status-page)](https://github.com/upptime/status-page/releases) [![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/upptime/status-page)](https://snyk.io/test/github/upptime/status-page) |
-| Health | [![License CI](https://github.com/upptime/status-page/workflows/License%20CI/badge.svg)](https://github.com/upptime/status-page/actions?query=workflow%3A%22License+CI%22) [![CLA Assistant](https://github.com/upptime/status-page/workflows/CLA%20Assistant/badge.svg)](https://github.com/upptime/status-page/actions?query=workflow%3A%22CLA+Assistant%22) [![Pull Request Labeler](https://github.com/upptime/status-page/workflows/Pull%20Request%20Labeler/badge.svg)](https://github.com/upptime/status-page/actions?query=workflow%3A%22Pull+Request+Labeler%22) |
-| PRs | [![Feature Branch Pull Request](https://github.com/upptime/status-page/workflows/Feature%20Branch%20Pull%20Request/badge.svg)](https://github.com/upptime/status-page/actions?query=workflow%3A%22Feature+Branch+Pull+Request%22) [![Hotfix Branch Pull Request](https://github.com/upptime/status-page/workflows/Hotfix%20Branch%20Pull%20Request/badge.svg)](https://github.com/upptime/status-page/actions?query=workflow%3A%22Hotfix+Branch+Pull+Request%22) [![Merge PRs](https://github.com/upptime/status-page/workflows/Merge%20PRs/badge.svg)](https://github.com/upptime/status-page/actions?query=workflow%3A%22Merge+PRs%22) |
+| Build | [![Node CI](https://github.com/info-devf5r/status-page/workflows/Node%20CI/badge.svg)](https://github.com/info-devf5r/status-page/actions?query=workflow%3A%22Node+CI%22) [![Dependencies](https://img.shields.io/librariesio/github/upptime/status-page)](https://libraries.io/github/upptime/status-page) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/upptime/status-page)](https://github.com/info-devf5r/status-page/releases) [![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/upptime/status-page)](https://snyk.io/test/github/upptime/status-page) |
+| Health | [![License CI](https://github.com/info-devf5r/status-page/workflows/License%20CI/badge.svg)](https://github.com/info-devf5r/status-page/actions?query=workflow%3A%22License+CI%22) [![CLA Assistant](https://github.com/info-devf5r/status-page/workflows/CLA%20Assistant/badge.svg)](https://github.com/info-devf5r/status-page/actions?query=workflow%3A%22CLA+Assistant%22) [![Pull Request Labeler](https://github.com/info-devf5r/status-page/workflows/Pull%20Request%20Labeler/badge.svg)](https://github.com/info-devf5r/status-page/actions?query=workflow%3A%22Pull+Request+Labeler%22) |
+| PRs | [![Feature Branch Pull Request](https://github.com/info-devf5r/status-page/workflows/Feature%20Branch%20Pull%20Request/badge.svg)](https://github.com/info-devf5r/status-page/actions?query=workflow%3A%22Feature+Branch+Pull+Request%22) [![Hotfix Branch Pull Request](https://github.com/info-devf5r/status-page/workflows/Hotfix%20Branch%20Pull%20Request/badge.svg)](https://github.com/info-devf5r/status-page/actions?query=workflow%3A%22Hotfix+Branch+Pull+Request%22) [![Merge PRs](https://github.com/info-devf5r/status-page/workflows/Merge%20PRs/badge.svg)](https://github.com/info-devf5r/status-page/actions?query=workflow%3A%22Merge+PRs%22) |
 <!-- prettier-ignore-end -->
 
 ## 🎁 Contributing
@@ -18,7 +18,7 @@ This repository is for Upptime's embeddable web app. We love contributions, so p
 
 ### Issues
 
-We use the [upptime/upptime](https://github.com/upptime/upptime) repository for issues for all projects, including this one. If you found a bug or have a feature request, [open an issue](https://github.com/upptime/upptime/issues) in the Upptime repository and add the label "static-site".
+We use the [info-devf5r/status-page](https://github.com/info-devf5r/status-page) repository for issues for all projects, including this one. If you found a bug or have a feature request, [open an issue](https://github.com/info-devf5r/status-page/issues) in the Upptime repository and add the label "static-site".
 
 ## 💻 Usage
 

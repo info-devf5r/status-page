@@ -1,6 +1,6 @@
 owner: info-devf5r
 repo: VPN
-user-agent: KojBot
+user-agent: info-devf5r
 
 # Add your sites here
 sites:
@@ -29,10 +29,10 @@ assignees:
 # http://localhost:3000/docs/configuration#status-website
 status-website:
   cname: info-devf5r.github.io/status-page/
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/info-devf5r/status-page.js.org/master/static/img/icon.svg
   name: VPN
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**info-devf5r** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/info-devf5r/status-page). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/info-devf5r/status-page)
   apiBaseUrl: https://api.github.com
   userContentBaseUrl: https://raw.githubusercontent.com
   navbar:

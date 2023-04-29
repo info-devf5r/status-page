@@ -34,17 +34,17 @@ export const postProcess = async () => {
   if (
     config["status-website"] &&
     config["status-website"].cname &&
-    config["status-website"].cname !== "demo.upptime.js.org"
+    config["status-website"].cname !== "info-devf5r.github.io/status-page"
   )
     await writeFile(join(".", "__sapper__", "export", "CNAME"), config["status-website"].cname);
   else if (
     config["status-website"] &&
     config["status-website"].cname &&
-    config["status-website"].cname === "demo.upptime.js.org" &&
-    owner === "upptime" &&
-    repo === "upptime"
+    config["status-website"].cname === "info-devf5r.github.io/status-page" &&
+    owner === "info-devf5r" &&
+    repo === "status-page"
   )
-    await writeFile(join(".", "__sapper__", "export", "CNAME"), "demo.upptime.js.org");
+    await writeFile(join(".", "__sapper__", "export", "CNAME"), "info-devf5r.github.io/status-page");
 
   if (config["status-website"] && config["status-website"].robotsText)
     await writeFile(
