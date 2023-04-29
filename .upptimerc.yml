@@ -1,5 +1,5 @@
-owner: upptime
-repo: upptime
+owner: info-devf5r
+repo: VPN
 user-agent: KojBot
 
 # Add your sites here
@@ -17,7 +17,7 @@ sites:
   - name: Secret Site
     url: $SECRET_SITE
 
-# Add downtime notifications
+# أضف إخطارات التوقف
 # https://upptime.js.org/docs/notifications
 notifications:
   - type: slack
@@ -25,12 +25,12 @@ notifications:
 assignees:
   - AnandChowdhary
 
-# Configure your status website
+# تكوين موقع حالتك
 # http://localhost:3000/docs/configuration#status-website
 status-website:
-  cname: demo.upptime.js.org
+  cname: info-devf5r.github.io/status-page/
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: VPN
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   apiBaseUrl: https://api.github.com
