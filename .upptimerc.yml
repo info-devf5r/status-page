@@ -1,5 +1,5 @@
 owner: info-devf5r
-repo: VPN
+repo: status-page
 user-agent: info-devf5r
 
 # Add your sites here
@@ -17,7 +17,7 @@ sites:
   - name: Secret Site
     url: $SECRET_SITE
 
-# أضف إخطارات التوقف
+# Add downtime notifications
 # https://upptime.js.org/docs/notifications
 notifications:
   - type: slack
@@ -25,14 +25,14 @@ notifications:
 assignees:
   - AnandChowdhary
 
-# تكوين موقع حالتك
+# Configure your status website
 # http://localhost:3000/docs/configuration#status-website
 status-website:
-  cname: info-devf5r.github.io/status-page/
-  logoUrl: https://raw.githubusercontent.com/info-devf5r/status-page.js.org/master/static/img/icon.svg
-  name: VPN
-  introTitle: "** info-devf5r ** هي صفحة الحالة وجهاز مراقبة وقت التشغيل مفتوحة المصدر ، وهي مدعومة بالكامل بواسطة GitHub."
-  introMessage: هذه عينة من صفحة الحالة تستخدم بيانات ** في الوقت الفعلي ** من [Github repository] (https://github.com/info-devf5r/status-page). لا يلزم وجود خادم - فقط إجراءات GitHub والمشكلات والصفحات. [** احصل على ما لديك مجانًا **] (https://github.com/info-devf5r/status-page)
+  cname: info-devf5r.github.io/status-page
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: status-page
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   apiBaseUrl: https://api.github.com
   userContentBaseUrl: https://raw.githubusercontent.com
   navbar:

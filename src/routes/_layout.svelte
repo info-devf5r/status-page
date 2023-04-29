@@ -47,7 +47,7 @@
     type="image/svg"
     href={(config["status-website"] || {}).faviconSvg ||
       (config["status-website"] || {}).favicon ||
-      `https://raw.githubusercontent.com/info-devf5r/status-page/master/assets/upptime-icon.svg`}
+      `https://raw.githubusercontent.com/upptime/upptime/master/assets/upptime-icon.svg`}
   />
   <link
     rel="icon"
