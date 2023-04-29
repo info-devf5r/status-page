@@ -31,8 +31,8 @@ status-website:
   cname: info-devf5r.github.io/status-page/
   logoUrl: https://raw.githubusercontent.com/info-devf5r/status-page.js.org/master/static/img/icon.svg
   name: VPN
-  introTitle: "**info-devf5r** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/info-devf5r/status-page). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/info-devf5r/status-page)
+  introTitle: "** info-devf5r ** هي صفحة الحالة وجهاز مراقبة وقت التشغيل مفتوحة المصدر ، وهي مدعومة بالكامل بواسطة GitHub."
+  introMessage: هذه عينة من صفحة الحالة تستخدم بيانات ** في الوقت الفعلي ** من [Github repository] (https://github.com/info-devf5r/status-page). لا يلزم وجود خادم - فقط إجراءات GitHub والمشكلات والصفحات. [** احصل على ما لديك مجانًا **] (https://github.com/info-devf5r/status-page)
   apiBaseUrl: https://api.github.com
   userContentBaseUrl: https://raw.githubusercontent.com
   navbar:
